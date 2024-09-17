@@ -1,11 +1,3 @@
-
-DROP DATABASE IF EXISTS test_database;
-
-CREATE DATABASE test_database;
-
-\c test_database;
-
-
 CREATE TABLE worker (
 	id SERIAL PRIMARY KEY,
 	name VARCHAR(1000) NOT NULL CHECK (LENGTH(name) BETWEEN 2 AND 1000),
