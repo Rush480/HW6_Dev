@@ -1,4 +1,4 @@
-package ua;
+package ua.goit;
 
 import ua.goit.services.DatabaseQueryService;
 
