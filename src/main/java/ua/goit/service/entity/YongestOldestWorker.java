@@ -1,4 +1,4 @@
-package ua.goit.services.entity;
+package ua.goit.service.entity;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,7 +1,7 @@
-package ua.goit.services;
+package ua.goit.service;
 
 
-import ua.goit.services.entity.*;
+import ua.goit.service.entity.*;
 import ua.goit.util.Database;
 import ua.goit.util.FileReader;
 

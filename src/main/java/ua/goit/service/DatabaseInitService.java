@@ -1,4 +1,4 @@
-package ua.goit.services;
+package ua.goit.service;
 
 import ua.goit.util.Database;
 import ua.goit.util.FileReader;

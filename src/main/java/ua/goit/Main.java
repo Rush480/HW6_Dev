@@ -1,6 +1,6 @@
 package ua.goit;
 
-import ua.goit.services.DatabaseQueryService;
+import ua.goit.service.DatabaseQueryService;
 
 import java.sql.SQLException;
 
